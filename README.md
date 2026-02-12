@@ -210,9 +210,9 @@ Communicate insights clearly to stakeholders
 
 👤 Author
 
-Your Name
+Vivek
 Data Analyst | Python | SQL | Power BI
 
-LinkedIn: (Add link)
-Email: (Add email)
+LinkedIn: linkedin.com/in/vivek-singh-a080b4309
+Email:vivek18062005@gmail.com
 
